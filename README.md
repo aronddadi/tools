@@ -4,8 +4,9 @@
 ### Pavucontrol
 
 For sound control (output, volume, etc)
-´´´bash
+```bash
 sudo apt-get install pavucontrol
-pavucontrol```
+pavucontrol
+```
 
 Last command to start it
